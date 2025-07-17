@@ -73,7 +73,7 @@ The objective is to:
 
 ## 🧪 How to Run
 
-### 1. Setup bash
+Setup bash
 
 
 pip install -r requirements.txt
